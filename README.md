@@ -27,4 +27,4 @@ Thanks for exploring my profile.I appreciate it :+1:
 }
 ```
 ### TL;DR
-Alright dear. :heart_eyes: Thanks for being connected with me at least for a while. :star-struck: :smiling_face_with_3_hearts: I highly appreciate it. :clap:
+Alright dear. :heart_eyes: Thanks for being connected with me at least for a while. I highly appreciate it. :clap:
