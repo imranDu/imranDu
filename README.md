@@ -10,7 +10,7 @@ Thanks for exploring my profile.I appreciate it :+1:
 :seedling: currently learning to **Automate web** & more **Coolest Staffs**\
 :speech_balloon: **Ask me about:** JavaScript,React,Git, Puppeteer,Express.js,Node.js,GraphQL\
 :zap: **Fun fact:** I'm a Night owl :owl: who love to travel :rocket: <br/>
-:mailbox: You're always welcome to drop me a message at [imranvision35@gmail.com](imranvision35@gmail.com)
+:mailbox: You're always welcome to mail me at [imranvision35@gmail.com](imranvision35@gmail.com)
 ### My Stacks
 ```json
 {
